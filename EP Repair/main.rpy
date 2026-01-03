@@ -11,8 +11,8 @@ init -990 python:
     store.mas_submod_utils.Submod(
         author="ZeroFixer",
         name="Extra Plus Repair",
-        description="Detects and repairs incorrect submod installation...",
-        version="1.0.0",
+        description="Detects and repairs incorrect submod installation. Once the ExtraPlus submod has been repaired, delete the EP Repair folder when MAS is closed.",
+        version="1.0.1",
         settings_pane="_ep_repair_settings"
     )
 
